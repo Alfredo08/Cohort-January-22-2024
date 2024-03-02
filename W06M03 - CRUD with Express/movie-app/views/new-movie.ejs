@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> New movie </title>
+    </head>
+    <body>
+        <h1> Add a new movie </h1>
+        <form method="POST" action="/api/movie/new">
+            <div>
+                <label>
+                    Title:
+                </label>
+                <input type="text" id="title" name="title">
+            </div>
+            <div>
+                <label>
+                    Director:
+                </label>
+                <input type="text" id="director" name="director">
+            </div>
+            <button> Add movie </button>
+        </form>
+    </body>
+</html>

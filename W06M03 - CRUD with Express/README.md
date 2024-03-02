@@ -1,5 +1,5 @@
 # M03 W06 | CRUD with Express
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-January-22-2024/tree/main/W06M03%20-%20CRUD%20with%20Express) | [Vimeo Video Recording]()
 
 ## Topics to cover
 
