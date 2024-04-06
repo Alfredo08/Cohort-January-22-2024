@@ -1,18 +1,20 @@
--- STRINGS
-    TEXT
-    VARCHAR(50)
-    CHAR(5)
-    
--- NUMEBRS
-    INTEGER
-    FLOAT 
-    DOUBLE
-    BOOLEAN 
+-- Numbers
+INTEGER
+SMALLINT
+BIGINT
+BOOLEAN
+FLOAT
+DOUBLE
 
--- DATE
-    DATE
-    DATETIME
-    TIMESTAMP
+-- Date
+DATETIME
+TIMESTAMP
 
--- NULL
-    NULL
+-- String
+TEXT
+VARCHAR(size)
+
+-- Null
+NULL
+
+
