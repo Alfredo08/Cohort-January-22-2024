@@ -1,5 +1,5 @@
 # M09 W22 | Intro to Ruby
-[Github Repository]() | [Vimeo Video Recording](https://vimeo.com/961823997/1865b57b18?share=copy)
+[Github Repository](https://github.com/Alfredo08/Cohort-January-22-2024/tree/main/W22M09%20-%20Intro%20to%20Ruby) | [Vimeo Video Recording](https://vimeo.com/961823997/1865b57b18?share=copy)
 
 ## Topics to cover 
 
